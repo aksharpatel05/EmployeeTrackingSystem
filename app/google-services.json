@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210168199185",
+    "firebase_url": "https://salesmonitoring652019.firebaseio.com",
+    "project_id": "salesmonitoring652019",
+    "storage_bucket": "salesmonitoring652019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210168199185:android:2ff5dd0ea28057e6",
+        "android_client_info": {
+          "package_name": "com.example.salesmonitoring_652019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210168199185-rfb22nfnv1hmiegt8aflenc1o8sguo0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salesmonitoring_652019",
+            "certificate_hash": "8e450c7b43334acf4da3bb76b4ed8d6f0e76c69f"
+          }
+        },
+        {
+          "client_id": "210168199185-838irprv638dj38iinuite9gu3dk7n37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8bxC3jCel1ssMXwDqD3y4CQSA8egjoo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210168199185-838irprv638dj38iinuite9gu3dk7n37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
